@@ -1,0 +1,9 @@
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\bin\Debug\Trial Run.exe.config
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\bin\Debug\Trial Run.exe
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\bin\Debug\Trial Run.pdb
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\SMB - Simple Message Box.csprojAssemblyReference.cache
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\SMB___Simple_Message_Box.Form1.resources
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\SMB___Simple_Message_Box.Properties.Resources.resources
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\SMB - Simple Message Box.csproj.GenerateResource.cache
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\Trial Run.exe
+C:\Users\David Bowlin\source\repos\SMB - Simple Message Box\SMB - Simple Message Box\obj\Debug\Trial Run.pdb
